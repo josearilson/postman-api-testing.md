@@ -22,11 +22,11 @@ Para os nossos exemplos, estarei utilizando, além da ferramenta Postman, a fake
 
 ## Essa API possui os seguintes endpoints:
 <p>/posts - 100 publicaçöes</p>
-/comments - 500 comentários
-/albums - 100 albuns
-/photos - 5000 fotos
-/todos - 200 todos
-/users - 10 usuários
+<p>/comments - 500 comentários</p>
+<p>/albums - 100 albuns</p>
+<p>/photos - 5000 fotos</p>
+<p>/todos - 200 todos</p>
+<p>/users - 10 usuários</p>
 
 
 ## Organizando as suas requisições no Postman 💻🧑🏼‍🚀
