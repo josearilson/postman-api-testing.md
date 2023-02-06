@@ -2,7 +2,7 @@
 Aqui você vai encontrar além de uma introdução sobre requisições no Postman, como testá-las de maneira automatizada.
 
 
-# O que são requisições HTTP, na prática? 🤓
+### O que são requisições HTTP, na prática? 🤓
 
 Na prática, requisições HTTP são chamadas feitas pelo cliente ao servidor e que, dependendo do método, esperam uma resposta.
 
