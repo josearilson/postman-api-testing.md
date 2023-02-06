@@ -9,9 +9,9 @@ Na prática, requisições HTTP são chamadas feitas pelo cliente ao servidor e 
 ### Os métodos (ou verbos, como são comumente chamados) mais utilizados são:
 - GET - O método GET deve retornar os dados do endpoint ao qual foi feito a requisição.
 - PUT - O método PUT tem como objetivo alterar/editar, de maneira a sobrescrever os dados do endpoint da requisição.
--PATCH - Diferente do método PUT, o PATCH altera somente os campos especificados no corpo da requisição, sem sobrescrever totalmente o endpoint.
-POST - O método POST cria um novo recurso no servidor, nesse método, o corpo da requisição irá carregar os dados que serão transmitidos para o endpoint.
-DELETE - O método DELETE, como o próprio nome já diz, remove um recurso específico.
+- PATCH - Diferente do método PUT, o PATCH altera somente os campos especificados no corpo da requisição, sem sobrescrever totalmente o endpoint.
+- POST - O método POST cria um novo recurso no servidor, nesse método, o corpo da requisição irá carregar os dados que serão transmitidos para o endpoint.
+- DELETE - O método DELETE, como o próprio nome já diz, remove um recurso específico.
 Com essas informações, já podemos começar nossa jornada na WEB por baixo dos panos!
 
 
