@@ -20,7 +20,7 @@ Com essas informações, já podemos começar nossa jornada na WEB por baixo dos
 ### O que vamos usar? 😁💻
 Para os nossos exemplos, estarei utilizando, além da ferramenta Postman, a fake API JSONPlaceholder.
 
-##Essa API possui os seguintes endpoints:
+## Essa API possui os seguintes endpoints:
 
 /posts - 100 publicaçöes
 /comments - 500 comentários
