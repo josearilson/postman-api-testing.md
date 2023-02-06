@@ -21,8 +21,7 @@ Com essas informações, já podemos começar nossa jornada na WEB por baixo dos
 Para os nossos exemplos, estarei utilizando, além da ferramenta Postman, a fake API JSONPlaceholder.
 
 ## Essa API possui os seguintes endpoints:
-
-/posts - 100 publicaçöes
+<p>/posts - 100 publicaçöes</p>
 /comments - 500 comentários
 /albums - 100 albuns
 /photos - 5000 fotos
